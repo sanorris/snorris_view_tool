@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SNorrisViewTool::Renderer.copyright 'Seth Norris', 'All rights reserved'
+```
 
 ## Development
 
